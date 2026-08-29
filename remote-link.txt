@@ -1,0 +1,9 @@
+=======================================================
+noVNC INFO - DucThang x TrueHieu Edition
+=======================================================
+URL       : https://integration-lodging-insert-reseller.trycloudflare.com/vnc.html
+Password  : hieudz
+Host      : trycloudflare
+Protocol  : noVNC over Cloudflared
+Created   : 2026-08-29 13:15:07
+=======================================================
