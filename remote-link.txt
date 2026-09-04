@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://services-angel-arrested-pty.trycloudflare.com/vnc.html
+URL       : https://space-generates-trade-walk.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 03:28:20
+Created   : 2026-09-04 09:25:05
 =======================================================
