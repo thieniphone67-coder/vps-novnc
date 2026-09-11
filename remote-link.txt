@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://persons-streams-discuss-radar.trycloudflare.com/vnc.html
+URL       : https://explorer-grain-detection-red.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 03:40:03
+Created   : 2026-09-11 09:26:22
 =======================================================
