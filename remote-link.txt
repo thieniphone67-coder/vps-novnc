@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://beaches-witnesses-trader-glenn.trycloudflare.com/vnc.html
+URL       : https://industries-cab-img-impacts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 17:44:41
+Created   : 2026-09-12 22:01:20
 =======================================================
