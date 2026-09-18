@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://candle-attorney-travelers-borough.trycloudflare.com/vnc.html
+URL       : https://www-vhs-intranet-definitely.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-17 22:45:34
+Created   : 2026-09-18 03:50:11
 =======================================================
