@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://commands-way-melbourne-scenic.trycloudflare.com/vnc.html
+URL       : https://doe-machine-perspectives-work.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-23 18:56:14
+Created   : 2026-09-23 22:49:41
 =======================================================
