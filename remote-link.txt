@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://destinations-counters-head-aruba.trycloudflare.com/vnc.html
+URL       : https://hugh-lenders-sandy-widescreen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-12 04:53:48
+Created   : 2026-10-12 12:53:27
 =======================================================
