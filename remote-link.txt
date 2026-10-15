@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://authors-tough-some-story.trycloudflare.com/vnc.html
+URL       : https://balanced-valves-magnetic-elect.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 19:00:11
+Created   : 2026-10-15 22:59:32
 =======================================================
