@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://affiliation-aerospace-arizona-jet.trycloudflare.com/vnc.html
+URL       : https://authors-tough-some-story.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 14:47:29
+Created   : 2026-10-15 19:00:11
 =======================================================
