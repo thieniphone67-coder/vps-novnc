@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://laptops-specialist-catalogs-replaced.trycloudflare.com/vnc.html
+URL       : https://james-contributions-preparing-blond.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 13:32:39
+Created   : 2026-10-17 17:50:08
 =======================================================
