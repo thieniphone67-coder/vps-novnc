@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ongoing-stranger-variance-oclc.trycloudflare.com/vnc.html
+URL       : https://sacred-explanation-setting-protected.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 11:06:07
+Created   : 2026-10-28 20:09:27
 =======================================================
