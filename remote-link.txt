@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://naval-minimum-tribute-codes.trycloudflare.com/vnc.html
+URL       : https://makes-together-module-advance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 19:55:07
+Created   : 2026-10-30 23:33:03
 =======================================================
