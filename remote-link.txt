@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://courage-excuse-hypothetical-minnesota.trycloudflare.com/vnc.html
+URL       : https://fairly-lauren-connecting-researcher.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 04:50:59
+Created   : 2026-10-30 11:15:02
 =======================================================
