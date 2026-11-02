@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shore-libraries-your-issue.trycloudflare.com/vnc.html
+URL       : https://gap-phases-hardware-italia.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 13:14:59
+Created   : 2026-11-02 23:03:27
 =======================================================
