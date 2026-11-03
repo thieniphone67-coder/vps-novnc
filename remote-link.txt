@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gap-phases-hardware-italia.trycloudflare.com/vnc.html
+URL       : https://reflect-vault-thermal-bidding.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 23:03:27
+Created   : 2026-11-03 05:46:18
 =======================================================
