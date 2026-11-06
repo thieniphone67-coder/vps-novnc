@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://passion-procurement-appearance-aerial.trycloudflare.com/vnc.html
+URL       : https://adjustments-auditor-classical-fitted.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:56:07
+Created   : 2026-11-06 00:54:44
 =======================================================
